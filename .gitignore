@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+glove/
+*.txt
+*.csv
+*.h5
